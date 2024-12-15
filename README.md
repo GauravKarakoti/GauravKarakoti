@@ -19,6 +19,7 @@
   <a href="https://blockchain.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/blockchain.png" alt="Blockchain" /> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"> <img src="https://img.icons8.com/color/48/000000/web-design.png" alt="Web Development" /> </a>
   <a href="https://www.postman.com/" target="_blank"> <img src="https://img.icons8.com/dusk/48/000000/api.png" alt="Postman API" /> </a>
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" /> </a>
 </p>
 
 ---
