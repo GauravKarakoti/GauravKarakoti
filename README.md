@@ -20,6 +20,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"> <img src="https://img.icons8.com/color/48/000000/web-design.png" alt="Web Development" /> </a>
   <a href="https://www.postman.com/" target="_blank"> <img src="https://img.icons8.com/dusk/48/000000/api.png" alt="Postman API" /> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" /> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" /> </a>
+  <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" /> </a>
 </p>
 
 ---
