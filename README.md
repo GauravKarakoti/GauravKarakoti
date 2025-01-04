@@ -35,6 +35,14 @@
 
 ---
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/GauravKarakoti/GauravKarakoti/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
 ### 🌟 Highlights:
 - 🔭 I’m currently working on **A Website Development**
 - 🌱 I’m currently learning **Web Development , Web 3 and Devops**
