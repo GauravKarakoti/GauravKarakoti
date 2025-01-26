@@ -23,6 +23,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" /> </a>
   <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" /> </a>
   <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/6e40c9/github.png" alt="GitHub" /> </a>
+  <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" /> </a>
 </p>
 
 ---
