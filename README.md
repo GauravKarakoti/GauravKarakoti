@@ -24,6 +24,9 @@
   <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" /> </a>
   <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/6e40c9/github.png" alt="GitHub" /> </a>
   <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" /> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" /> </a>
+  <a href="https://www.java.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" /> </a>
+  <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/active-directory-domain-services-overview" target="_blank"> <img src="https://img.icons8.com/color/48/000000/active-directory.png" alt="Active Directory" /> </a>
 </p>
 
 ---
