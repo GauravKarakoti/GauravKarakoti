@@ -27,6 +27,7 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" /> </a>
   <a href="https://www.java.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" /> </a>
   <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/active-directory-domain-services-overview" target="_blank"> <img src="https://img.icons8.com/color/48/000000/active-directory.png" alt="Active Directory" /> </a>
+  <a href="https://en.wikipedia.org/wiki/Data_visualization" target="_blank"> <img src="https://img.icons8.com/color/48/000000/combo-chart.png" alt="Data Visualization" /> </a>
 </p>
 
 ---
