@@ -28,6 +28,7 @@
   <a href="https://www.java.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" /> </a>
   <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/active-directory-domain-services-overview" target="_blank"> <img src="https://img.icons8.com/color/48/000000/active-directory.png" alt="Active Directory" /> </a>
   <a href="https://en.wikipedia.org/wiki/Data_visualization" target="_blank"> <img src="https://img.icons8.com/color/48/000000/combo-chart.png" alt="Data Visualization" /> </a>
+  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"> <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Artificial Intelligence" /> </a>
 </p>
 
 ---
