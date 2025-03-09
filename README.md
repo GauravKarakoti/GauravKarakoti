@@ -48,7 +48,12 @@
 
 <img src="https://github.com/GauravKarakoti/GauravKarakoti/blob/output/snake.svg" alt="Snake animation" />
 
-###
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="50px"> Featured In</h3>
+<tr>
+<td align="center">
+<a href="https://s2apertre.resourcio.in"><img src="https://s2apertre.resourcio.in/Logo_primary.svg" height="140px" width="180px" alt="Apertre 2025"></a><br>
+</td>
+</tr>
 
 ### 🌟 Highlights:
 - 🔭 I’m currently working on **A Website Development**
