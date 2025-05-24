@@ -32,6 +32,7 @@
   <a href="https://en.wikipedia.org/wiki/Data_visualization" target="_blank"> <img src="https://img.icons8.com/color/48/000000/combo-chart.png" alt="Data Visualization" /> </a>
   <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"> <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Artificial Intelligence" /> </a>
   <a href="https://en.wikipedia.org/wiki/Open-source_intelligence" target="_blank"> <img src="https://img.icons8.com/color/48/000000/open-source.png" alt="Open‑Source Intelligence" /> </a>
+  <a href="https://en.wikipedia.org/wiki/Test_case" target="_blank"> <img src="https://img.icons8.com/color/48/000000/test-passed.png" alt="Test Cases" /> </a>
 </p>
 
 ---
