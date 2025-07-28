@@ -59,6 +59,9 @@
 <td align="center">
 <a href="https://s2apertre.resourcio.in"><img src="https://s2apertre.resourcio.in/Logo_primary.svg" height="140px" width="180px" alt="Apertre 2025"></a><br>
 </td>
+<td align="centre">
+<a href="https://gssoc.girlscript.tech/"><img src="https://miro.medium.com/v2/resize:fit:560/0*loJWZJrLBa-0R_gH" width="180px" alt="GSSoC 2025"></a><br>
+</td>
 </tr>
 
 ### 🌟 Highlights:
