@@ -36,6 +36,7 @@
   <a href="https://www.canva.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" /> </a>
   <a href="https://en.wikipedia.org/wiki/Cybersecurity" target="_blank"><img src="https://img.icons8.com/clouds/48/000000/cyber-security.png" alt="Cybersecurity" /></a>
   <a href="https://isocpp.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" /></a>
+  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/rust-programming-language.png" alt="Rust" /></a>
 </p>
 
 ---
