@@ -57,17 +57,13 @@
 <img src="https://github.com/GauravKarakoti/GauravKarakoti/blob/output/snake.svg" alt="Snake animation" />
 
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="50px"> Featured In</h3>
-<tr>
-<td align="center">
-<a href="https://s2apertre.resourcio.in"><img src="https://s2.apertre.resourcio.in/Logo_primary.svg" height="140px" width="180px" alt="Apertre 2025"></a><br>
-</td>
-<td align="centre">
-<a href="https://gssoc.girlscript.tech/"><img src="https://miro.medium.com/v2/resize:fit:560/0*loJWZJrLBa-0R_gH" width="180px" alt="GSSoC 2025"></a><br>
-</td>
-<td align="centre">
-<a href="https://code.elitecoders.xyz//"><img src="https://github.com/user-attachments/assets/74b9fbd2-9165-4b99-90c8-439544690525" width="180px" alt="ECWoC'26"></a><br>
-</td>
-</tr>
+<p align="center">
+  <a href="https://s2.apertre.resourcio.in"><img src="https://s2.apertre.resourcio.in/Logo_primary.svg" height="140px" width="180px" alt="Apertre 2025"></a>
+  <a href="https://gssoc.girlscript.tech/"><img src="https://miro.medium.com/v2/resize:fit:560/0*loJWZJrLBa-0R_gH" width="180px" alt="GSSoC 2025"></a>
+  <a href="https://code.elitecoders.xyz/"><img src="https://github.com/user-attachments/assets/74b9fbd2-9165-4b99-90c8-439544690525" width="180px" alt="ECWoC'26"></a>
+  <a href="https://dscwoc.dscvitb.in/"><img src="https://dscwoc.dscvitb.in/dscwoc-navbar-logo.png" width="180px" alt="DSCWoC'26"></a>
+  <a href="https://apertre.resourcio.in/"><img src="https://apertre.resourcio.in/assets/vector.svg" width="230px" alt="Apertre3.0"></a>
+</p>
 
 ### 🌟 Highlights:
 - 🔭 I’m currently working on **A Website Development**
