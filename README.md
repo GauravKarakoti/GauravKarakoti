@@ -39,6 +39,7 @@
   <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/rust-programming-language.png" alt="Rust" /></a>
   <a href="https://n8n.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/workflow.png" alt="n8n" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/plasticine/48/000000/bash.png" alt="Bash" /></a>
+  <a href="https://soliditylang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ethereum.png" alt="Solidity" /></a>
 </p>
 
 ---
