@@ -32,7 +32,6 @@
   <a href="https://en.wikipedia.org/wiki/Data_visualization" target="_blank"> <img src="https://img.icons8.com/color/48/000000/combo-chart.png" alt="Data Visualization" /> </a>
   <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"> <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Artificial Intelligence" /> </a>
   <a href="https://en.wikipedia.org/wiki/Open-source_intelligence" target="_blank"> <img src="https://img.icons8.com/color/48/000000/open-source.png" alt="Open‑Source Intelligence" /> </a>
-  <a href="https://en.wikipedia.org/wiki/Test_case" target="_blank"> <img src="https://img.icons8.com/color/48/000000/test-passed.png" alt="Test Cases" /> </a>
   <a href="https://www.canva.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" /> </a>
   <a href="https://en.wikipedia.org/wiki/Cybersecurity" target="_blank"><img src="https://img.icons8.com/clouds/48/000000/cyber-security.png" alt="Cybersecurity" /></a>
   <a href="https://isocpp.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" /></a>
