@@ -65,6 +65,7 @@
   <a href="https://code.elitecoders.xyz/"><img src="https://github.com/user-attachments/assets/74b9fbd2-9165-4b99-90c8-439544690525" width="180px" alt="ECWoC'26"></a>
   <a href="https://dscwoc.dscvitb.in/"><img src="https://dscwoc.dscvitb.in/dscwoc-navbar-logo.png" width="180px" alt="DSCWoC'26"></a>
   <a href="https://apertre.resourcio.in/"><img src="https://apertre.resourcio.in/assets/vector.svg" width="230px" alt="Apertre3.0"></a>
+  <a href="https://summerofcode.xyz/"><img src="https://summerofcode.xyz/logo.png" width="230px" alt="ECSoC'26"></a>
 </p>
 
 ### 🌟 Highlights:
