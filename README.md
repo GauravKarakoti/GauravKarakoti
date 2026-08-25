@@ -41,6 +41,7 @@
   <a href="https://soliditylang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ethereum.png" alt="Solidity" /></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" /></a>
   <a href="https://huggingface.co/docs/transformers" target="_blank"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Transformers" /></a>
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" alt="R Programming" /></a>
 </p>
 
 ---
