@@ -42,6 +42,7 @@
   <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" /></a>
   <a href="https://huggingface.co/docs/transformers" target="_blank"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Transformers" /></a>
   <a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" alt="R Programming" /></a>
+  <a href="https://en.wikipedia.org/wiki/Data_science" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="Data Science" /></a>
 </p>
 
 ---
