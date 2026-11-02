@@ -70,6 +70,8 @@
   <a href="https://dscwoc.dscvitb.in/"><img src="https://dscwoc.dscvitb.in/dscwoc-navbar-logo.png" width="180px" alt="DSCWoC'26"></a>
   <a href="https://apertre.resourcio.in/"><img src="https://apertre.resourcio.in/assets/vector.svg" width="230px" alt="Apertre3.0"></a>
   <a href="https://summerofcode.xyz/"><img src="https://summerofcode.xyz/logo.png" width="230px" alt="ECSoC'26"></a>
+  <a href="https://osci.osconnect.org/"><img src="https://osci.osconnect.org/logo.png" width="230px" alt="OSCI"></a>
+  <a href="https://www.nsoc.in/"><img src="https://www.nsoc.in/_next/image?url=%2Fnsoc-logo-dark.webp&w=60&q=75" alt="NSOC"></a>
 </p>
 
 ### 🌟 Highlights:
