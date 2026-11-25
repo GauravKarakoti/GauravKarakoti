@@ -45,6 +45,7 @@
   <a href="https://en.wikipedia.org/wiki/Data_science" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="Data Science" /></a>
   <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" /></a>
   <a href="https://en.wikipedia.org/wiki/Scientific_computing" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="Scientific Computing" /></a>
+  <a href="https://en.wikipedia.org/wiki/Supervised_learning" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="Supervised Learning" /></a>
 </p>
 
 ---
